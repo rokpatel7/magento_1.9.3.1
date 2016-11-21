@@ -106,6 +106,7 @@ RELEASE_NOTES.txt
 index.php.sample
 php.ini.sample
 
+/js/prototype/validation.js
 
 #--------------------------#
 # TB DEVELOPER #
@@ -116,6 +117,3 @@ php.ini.sample
 /app/design/adminhtml/default/default/layout/tb_develop.xml
 /app/etc/modules/TB_Develop.xml
 /js/tb_develop
-
-
-/js/prototype/validation.js
